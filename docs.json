@@ -1,1 +1,14 @@
-
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Airrail Docs",
+  "colors": {
+    "primary": "#341f76"
+  },
+  "navigation": [
+    {
+      "group": "Home",
+      "pages": ["index"]
+    }
+  ]
+}
