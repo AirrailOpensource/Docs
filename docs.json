@@ -10,7 +10,9 @@
   "favicon": "/favicon.svg",
   "navigation": {
     "pages": [
-      "introduction"
+      "introduction",
+      "tos",
+      "privacy"
     ]
   },
   "logo": {
