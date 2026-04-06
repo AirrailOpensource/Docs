@@ -12,7 +12,18 @@
     "pages": [
       "introduction",
       "tos",
-      "privacy"
+      "privacy",
+      {
+        "group": "Tutorial",
+        "pages": [
+          "android",
+          "i-os",
+          "windows",
+          "mac-os",
+          "linux",
+          "android-watch"
+        ]
+      }
     ]
   },
   "logo": {
