@@ -11,7 +11,8 @@
   "navigation": {
     "languages": [
       {
-        "language": "zh-Hans",
+        "language": "en",
+        "default": true,
         "pages": [
           "introduction",
           "tos",
@@ -28,6 +29,15 @@
             ]
           }
         ]
+      },
+      {
+        "language": "zh-Hans"
+      },
+      {
+        "language": "zh-Hant"
+      },
+      {
+        "language": "ja"
       }
     ]
   },
