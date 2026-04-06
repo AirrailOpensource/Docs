@@ -9,19 +9,24 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "pages": [
-      "introduction",
-      "tos",
-      "privacy",
+    "languages": [
       {
-        "group": "Tutorial",
+        "language": "zh-Hans",
         "pages": [
-          "android",
-          "i-os",
-          "windows",
-          "mac-os",
-          "linux",
-          "android-watch"
+          "introduction",
+          "tos",
+          "privacy",
+          {
+            "group": "Tutorial",
+            "pages": [
+              "android",
+              "i-os",
+              "windows",
+              "mac-os",
+              "linux",
+              "android-watch"
+            ]
+          }
         ]
       }
     ]
