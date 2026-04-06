@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Airrail Docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#EE9AE9",
+    "light": "#645cd4",
+    "dark": "#6c5f93"
   },
   "favicon": "/favicon.svg",
   "navigation": {
